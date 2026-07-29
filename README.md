@@ -16,6 +16,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,8 +67,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 <!---LeetCode Topics End-->
