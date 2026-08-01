@@ -34,6 +34,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
