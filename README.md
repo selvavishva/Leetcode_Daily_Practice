@@ -1,7 +1,6 @@
 ﻿# Leetcode_Daily_Practice
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
