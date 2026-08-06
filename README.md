@@ -1,6 +1,7 @@
 ﻿# Leetcode_Daily_Practice
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +105,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
