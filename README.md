@@ -50,6 +50,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
