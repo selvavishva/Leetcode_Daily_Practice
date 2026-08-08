@@ -13,6 +13,7 @@
 | [1732-find-the-highest-altitude](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -24,12 +25,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Math
@@ -107,4 +110,8 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
