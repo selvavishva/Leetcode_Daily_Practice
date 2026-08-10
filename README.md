@@ -44,6 +44,7 @@
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -116,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
