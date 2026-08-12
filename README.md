@@ -51,6 +51,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3870-count-commas-in-range](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
