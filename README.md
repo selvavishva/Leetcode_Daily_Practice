@@ -18,6 +18,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
