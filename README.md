@@ -91,6 +91,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2315-count-asterisks](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
@@ -155,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
