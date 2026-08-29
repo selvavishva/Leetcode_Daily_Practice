@@ -11,6 +11,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
