@@ -14,6 +14,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -128,6 +129,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
