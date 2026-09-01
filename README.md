@@ -16,6 +16,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -98,6 +99,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2315-count-asterisks](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
