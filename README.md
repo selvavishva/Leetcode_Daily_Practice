@@ -34,6 +34,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
