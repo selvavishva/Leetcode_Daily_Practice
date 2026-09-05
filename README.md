@@ -27,6 +27,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -66,6 +67,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -129,6 +131,7 @@
 | [2784-check-if-array-is-good](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -184,4 +187,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
