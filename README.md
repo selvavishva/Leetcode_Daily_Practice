@@ -89,6 +89,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
