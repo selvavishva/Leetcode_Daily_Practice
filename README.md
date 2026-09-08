@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -83,6 +84,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
