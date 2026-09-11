@@ -31,6 +31,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -52,12 +53,14 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -200,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
