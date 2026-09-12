@@ -28,6 +28,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2942-find-words-containing-character](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -121,6 +122,7 @@
 | [2315-count-asterisks](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
