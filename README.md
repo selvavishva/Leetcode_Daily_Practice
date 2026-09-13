@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
+| [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -132,6 +133,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Sorting
