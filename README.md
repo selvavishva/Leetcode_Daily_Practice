@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
@@ -186,6 +187,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
