@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
+| [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0896-monotonic-array/) | Easy |
@@ -141,6 +142,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -217,4 +219,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
