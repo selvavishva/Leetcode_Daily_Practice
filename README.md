@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
@@ -135,6 +136,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -229,4 +231,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
