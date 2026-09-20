@@ -107,6 +107,7 @@
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
 | [1518-water-bottles](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1518-water-bottles/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Prefix Sum
@@ -133,6 +134,7 @@
 | [2942-find-words-containing-character](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
