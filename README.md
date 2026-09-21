@@ -135,6 +135,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [4006-count-valid-prefixes](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [4006-count-valid-prefixes](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
