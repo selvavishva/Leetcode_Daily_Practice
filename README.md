@@ -122,6 +122,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -198,6 +199,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0541-reverse-string-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
