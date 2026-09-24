@@ -38,6 +38,7 @@
 | [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -82,6 +83,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
