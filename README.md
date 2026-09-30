@@ -255,4 +255,8 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
