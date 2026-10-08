@@ -130,6 +130,7 @@
 | [0541-reverse-string-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -225,6 +226,7 @@
 | [0020-valid-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -232,6 +234,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
