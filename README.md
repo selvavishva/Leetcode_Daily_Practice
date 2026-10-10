@@ -267,4 +267,5 @@
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0584-find-customer-referee](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
