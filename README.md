@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0217-contains-duplicate](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -162,6 +164,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
