@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
@@ -152,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
