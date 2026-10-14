@@ -13,6 +13,7 @@
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -155,6 +156,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -274,4 +276,8 @@
 | [0196-delete-duplicate-emails](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0584-find-customer-referee](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0584-find-customer-referee/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
