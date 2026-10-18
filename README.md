@@ -278,6 +278,7 @@
 | [0584-find-customer-referee](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0620-not-boring-movies](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
