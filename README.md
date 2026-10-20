@@ -24,6 +24,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -158,6 +159,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
