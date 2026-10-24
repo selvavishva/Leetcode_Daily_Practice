@@ -43,6 +43,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -108,6 +109,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
