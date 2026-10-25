@@ -286,6 +286,7 @@
 | [0619-biggest-single-number](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1075-project-employees-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Ternary Search
