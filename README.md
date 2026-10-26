@@ -134,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0520-detect-capital](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
