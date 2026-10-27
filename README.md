@@ -289,6 +289,7 @@
 | [0627-swap-sex-of-employees](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1075-project-employees-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
