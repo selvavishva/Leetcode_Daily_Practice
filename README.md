@@ -278,6 +278,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0511-game-play-analysis-i/) | Easy |
