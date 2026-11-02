@@ -12,6 +12,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0682-baseball-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0835-image-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -178,6 +180,7 @@
 | [0217-contains-duplicate](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0274-h-index/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/selvavishva/Leetcode_Daily_Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
